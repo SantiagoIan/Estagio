@@ -1,4 +1,7 @@
 Desafios propostos para estágio na Target Sistemas.
+Exercicío 1 - Fibonacci. (Arquivo .java)
+
+Exercicío 2 - Verificação String. (Arquivo .java)
 
 Exercicio 3- O valor da Variavel soma terá o valor de 77.
 
